@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620635516 source:/home/suraj/Desktop/cg/cg project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glut.h>
+	<math.h>
+
